@@ -1,5 +1,5 @@
 import pytest
-from algo import findRedundantConnection
+from tester.algo import findRedundantConnection
 
 
 def test_findRedundantConnection():
